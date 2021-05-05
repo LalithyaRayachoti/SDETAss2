@@ -207,8 +207,8 @@
         <con:config xsi:type="con:DataSourceStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
           <con:dataSource type="Excel">
             <con:configuration>
-              <file>C:/Users/RayachotiLalithya/Downloads/TestSample1.xlsx</file>
-              <worksheet>post</worksheet>
+              <file>C:/Users/RayachotiLalithya/Documents/lalithya/trainings/Reskill_Full stack tester/assignmnets/Assignement2_API/TestSample.xlsx</file>
+              <worksheet>pet</worksheet>
               <cell>A2</cell>
               <ignoreEmpty>false</ignoreEmpty>
               <evaluateFormulas>false</evaluateFormulas>
@@ -474,8 +474,8 @@
           <con:dataSink type="Excel">
             <con:configuration>
               <file/>
-              <outfile>C:/Users/RayachotiLalithya/Downloads/TestSample1.xlsx</outfile>
-              <worksheet>post</worksheet>
+              <outfile>C:/Users/RayachotiLalithya/Documents/lalithya/trainings/Reskill_Full stack tester/assignmnets/Assignement2_API/TestSample.xlsx</outfile>
+              <worksheet>pet</worksheet>
               <cell>D2</cell>
               <evaluateFormulas>false</evaluateFormulas>
               <append>false</append>
